@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sudalaimuthu Portfolio
 
 This is a cinematic embedded systems portfolio built with HTML, CSS, and JavaScript.
@@ -30,3 +31,6 @@ http://localhost:8000
 - `script.js` — 3D animation and effects
 - `assets/resume/Sudalaimuthu_Resume.pdf` — resume download target
 - `assets/images/` — SVG placeholders
+=======
+# portfolio
+>>>>>>> 512003a037e99994522c3eb3d6a6dce37fe1cb89
